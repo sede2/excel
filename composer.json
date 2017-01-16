@@ -8,5 +8,10 @@
             "name": "Sede2",
             "email": "sede2sede@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "Excel": "src"
+        }
+    }
 }
