@@ -1,0 +1,12 @@
+{
+    "name": "sede2/excel",
+    "require": {
+        "maatwebsite/excel": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Sede2",
+            "email": "sede2sede@gmail.com"
+        }
+    ]
+}
